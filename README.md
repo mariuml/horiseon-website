@@ -1,5 +1,8 @@
 # Horiseon: Refactoring a company landing page
 
+
+![Screenshot of 'Horiseon' landing page, showing navigation bar and hero image](assets/images/website-screenshot.jpg)
+
 ## Description
 
 This project invovled refactoring code for a fictitious marketing team, optimising the landing page of a website for the company 'Horiseon', specialising
@@ -12,7 +15,7 @@ I learnt more about using git and git hub, including the importance of writing m
 
 ## Usage
 
-The landing page has been deployed at: XXXX
+The landing page has been deployed at: (https://mariuml.github.io/horiseon-website/)
 
 Please follow the link to view the final version.
 
